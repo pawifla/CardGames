@@ -1,0 +1,11 @@
+C:\Users\pflanagan\source\VSCode\War_CardGame\obj\Debug\netcoreapp2.1\War_CardGame.csprojAssemblyReference.cache
+C:\Users\pflanagan\source\VSCode\War_CardGame\obj\Debug\netcoreapp2.1\War_CardGame.csproj.CoreCompileInputs.cache
+C:\Users\pflanagan\source\VSCode\War_CardGame\obj\Debug\netcoreapp2.1\War_CardGame.AssemblyInfoInputs.cache
+C:\Users\pflanagan\source\VSCode\War_CardGame\obj\Debug\netcoreapp2.1\War_CardGame.AssemblyInfo.cs
+C:\Users\pflanagan\source\VSCode\War_CardGame\bin\Debug\netcoreapp2.1\War_CardGame.deps.json
+C:\Users\pflanagan\source\VSCode\War_CardGame\bin\Debug\netcoreapp2.1\War_CardGame.runtimeconfig.json
+C:\Users\pflanagan\source\VSCode\War_CardGame\bin\Debug\netcoreapp2.1\War_CardGame.runtimeconfig.dev.json
+C:\Users\pflanagan\source\VSCode\War_CardGame\bin\Debug\netcoreapp2.1\War_CardGame.dll
+C:\Users\pflanagan\source\VSCode\War_CardGame\bin\Debug\netcoreapp2.1\War_CardGame.pdb
+C:\Users\pflanagan\source\VSCode\War_CardGame\obj\Debug\netcoreapp2.1\War_CardGame.dll
+C:\Users\pflanagan\source\VSCode\War_CardGame\obj\Debug\netcoreapp2.1\War_CardGame.pdb
